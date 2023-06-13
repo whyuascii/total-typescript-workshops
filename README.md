@@ -1,2 +1,5 @@
 # total-typescript-workshops
-Repo to enhance TS skills from Total Typescrip
+Repo to enhance TS skills from Total Typescript
+
+https://www.typescriptlang.org/docs/
+
